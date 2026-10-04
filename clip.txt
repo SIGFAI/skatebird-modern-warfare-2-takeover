@@ -1,0 +1,7 @@
+Moments the clip must show (tick only when seen on screenshots):
+[x] 1. Title "MODERN WARFARE 2", COD HUD (crosshair, radar, ammo) and OPFOR toy soldiers firing red tracers at the bird.
+[x] 2. The bird kickflips: its M4A1 rifle fires a volley, hitmarkers show, soldiers flash and fall, killfeed lists "BIRB [Kickflip] Sgt. Crumbs".
+[x] 3. The skateboard rams a soldier at speed (Ramming Speed in the killfeed): the host's physics hurts the enemy.
+[x] 4. Killstreak reward: Predator Missile falls with a smoke trail and explodes on the cluster.
+[x] 5. A care package parachutes in with red smoke and the bird skates into it; then TACTICAL NUKE flash.
+Weak: moment 4's missile body is only visible for a moment; the fireball and kills show clearly.

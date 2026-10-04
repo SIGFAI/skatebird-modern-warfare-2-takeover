@@ -1,0 +1,1 @@
+Copy the BepInEx folder from the mod's release folder into your SkateBIRD game folder (BepInEx 5 must be installed). Start the game: toy soldiers appear and every trick you land fires your rifle at them.
