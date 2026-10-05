@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "name": "Modern Warfare 2 Takeover",
   "tagline": "Bring Modern Warfare 2 into the game in the most visible and funny way. The change shows in the first 30 seconds of play.",
+  "how_to_play": [
+    "Toy soldiers attack you in waves in the playground; take them all out.",
+    "Land any trick to fire a rifle volley at the nearest soldiers, or ram them with your board.",
+    "Kill streaks pay off: UAV at 3 kills, Predator Missile at 5, Tactical Nuke at 10.",
+    "Skate into a Care Package crate when it lands for a Juggernaut suit or a Harrier strike.",
+    "The game opens straight in the playground and the first wave arrives right away."
+  ],
   "kind": "mashup",
   "games": [
     {
@@ -112,8 +119,5 @@
     "id": "skatebird",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:26:47.730Z",
-  "notes": [
-    "Copy the BepInEx folder from the mod's release folder into your SkateBIRD game folder (BepInEx 5 must be installed). Start the game: toy soldiers appear and every trick you land fires your rifle at them."
-  ]
+  "built_at": "2026-10-05T15:26:47.730Z"
 }
